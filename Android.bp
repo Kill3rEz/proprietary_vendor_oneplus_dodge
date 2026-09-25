@@ -7,7 +7,6 @@ soong_namespace {
         "hardware/oplus",
         "hardware/qcom-caf/sm8750",
         "vendor/oneplus/sm8750-common",
-        "vendor/qcom/opensource/commonsys-intf/display",
         "device/oneplus/dodge",
     ],
 }
